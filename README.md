@@ -5,4 +5,4 @@ learn from [Flutter-Course-Resources](https://github.com/londonappbrewery/Flutte
 
 ## created
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
+![Finished App](https://raw.githubusercontent.com/mokong/BlogImages/main/img/bmidemo.gif)
